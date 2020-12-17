@@ -3953,8 +3953,8 @@
     "metadata_fields":{
         "comments_limitations":"Alte informații",
 	"comparison_global":"Comparabilitatea cu indicatorul globali",
-        "computation_calculations":"Calcule",
-        "computation_definitions":"Formula și definiții",
+        "computation_calculations":"Formula de calcul",
+        "computation_definitions":"Definiții",
         "computation_units":"Unitatea de măsură",
         "test_meta":"Testarea metadatelor",
         "goal_meta_link":"Link spre metadatele ONU",
