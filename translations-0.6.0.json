@@ -1924,7 +1924,7 @@
     },
     "metadata_fields":{
         "comments_limitations":"Other information",
-        "computation_calculations":"Calculations",
+        "computation_calculations":"Calculation formula",
         "computation_definitions":"Definitions",
         "computation_units":"Unit of measurement",
         "test_meta":"The testing metadata",
