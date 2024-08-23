@@ -7,7 +7,7 @@ computation_definitions: Definitions
 # A label describing information - the unit of measurement that is being represented in a dataset
 computation_units: Unit of measurement
 # A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
-goal_meta_link: Link to UN metadata
+goal_meta_link: Link to global metadata
 # A label describing information - the numeric code for a particular indicator
 indicator: Indicator number
 # A label describing information - the definition for a particular indicator - as provided by the United Nations
@@ -50,12 +50,12 @@ source_next_release_4: Next release
 source_next_release_5: Next release
 source_next_release_6: Next release
 # A label describing information - the name of any organization associated with some provided data
-source_organisation_1: Organisation
-source_organisation_2: Organisation
-source_organisation_3: Organisation
-source_organisation_4: Organisation
-source_organisation_5: Organisation
-source_organisation_6: Organisation
+source_organisation_1: Data producers
+source_organisation_2: Data producers
+source_organisation_3: Data producers
+source_organisation_4: Data producers
+source_organisation_5: Data producers
+source_organisation_6: Data producers
 # A label describing information - any other information about a particular source of data for a particular indicator
 source_other_info_1: Other information
 source_other_info_2: Other information
