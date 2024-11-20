@@ -7,7 +7,7 @@ computation_definitions: Definiții
 # A label describing information - the unit of measurement that is being represented in a dataset
 computation_units: Unitatea de măsură
 # A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
-goal_meta_link: Link spre metadateleONU
+goal_meta_link: Link spre metadatele ONU
 # A label describing information - the numeric code for a particular indicator
 indicator: Numărul indicatorului
 # A label describing information - the definition for a particular indicator - as provided by the United Nations
